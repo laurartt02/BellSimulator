@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Command {
+public interface Command {
+    public String execute();
 }

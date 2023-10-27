@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class BellDecorator {
+public abstract class BellDecorator extends Bell {
+    Bell bell;
 }

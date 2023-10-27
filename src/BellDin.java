@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class BellDin {
+public class BellDin extends Bell{
+    public BellDin() {
+        sound = "din";
+    }
 }
